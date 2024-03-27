@@ -13,24 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\01">
-      <UniqueIdentifier>{d5b9c6c8-5e13-4ebe-a502-5980651d26f8}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="헤더 파일\01">
-      <UniqueIdentifier>{7b8f0312-65ae-4366-88be-a44b5d449e97}</UniqueIdentifier>
+    <Filter Include="소스 파일\04">
+      <UniqueIdentifier>{698988a6-7008-425e-9c1d-c8a16069e7d9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\01\Exp.cpp">
-      <Filter>소스 파일\01</Filter>
+    <ClCompile Include="..\04-Pointer\sample4-1.cpp">
+      <Filter>소스 파일\04</Filter>
     </ClCompile>
-    <ClCompile Include="..\01\main.cpp">
-      <Filter>소스 파일\01</Filter>
+    <ClCompile Include="..\04-Pointer\sample4-2.cpp">
+      <Filter>소스 파일\04</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\01\Exp.h">
-      <Filter>헤더 파일\01</Filter>
-    </ClInclude>
+    <ClCompile Include="..\04-Pointer\sample4-3.cpp">
+      <Filter>소스 파일\04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\04-Pointer\sample4-4.cpp">
+      <Filter>소스 파일\04</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
