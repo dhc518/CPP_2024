@@ -1,0 +1,3 @@
+https://www.autodesk.co.kr/support/technical/article/caas/sfdcarticles/sfdcarticles/KOR/3ds-Max-maps-and-materials-appear-blank-when-exporting-to-FBX-files-to-Unreal-Engine.html
+
+https://www.autodesk.co.kr/support/technical/article/caas/sfdcarticles/sfdcarticles/KOR/Missing-materials-and-textures-when-importing-FBX-file-from-3ds-Max-into-FBX-model-viewer.html
