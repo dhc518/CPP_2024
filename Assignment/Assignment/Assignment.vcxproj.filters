@@ -19,6 +19,12 @@
     <Filter Include="헤더 파일\01">
       <UniqueIdentifier>{7b8f0312-65ae-4366-88be-a44b5d449e97}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\02">
+      <UniqueIdentifier>{f23ea21d-1406-406d-94ad-3d3c18277d27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03">
+      <UniqueIdentifier>{fb90b7fa-9caf-4ce4-8862-702b4c95da8a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\01\Exp.cpp">
@@ -26,6 +32,27 @@
     </ClCompile>
     <ClCompile Include="..\01\main.cpp">
       <Filter>소스 파일\01</Filter>
+    </ClCompile>
+    <ClCompile Include="..\02\2-1.cpp">
+      <Filter>소스 파일\02</Filter>
+    </ClCompile>
+    <ClCompile Include="..\02\2-2.cpp">
+      <Filter>소스 파일\02</Filter>
+    </ClCompile>
+    <ClCompile Include="..\02\2-3.cpp">
+      <Filter>소스 파일\02</Filter>
+    </ClCompile>
+    <ClCompile Include="..\02\2-4.cpp">
+      <Filter>소스 파일\02</Filter>
+    </ClCompile>
+    <ClCompile Include="..\03\3-1.cpp">
+      <Filter>소스 파일\03</Filter>
+    </ClCompile>
+    <ClCompile Include="..\03\3-2.cpp">
+      <Filter>소스 파일\03</Filter>
+    </ClCompile>
+    <ClCompile Include="..\03\3-3.cpp">
+      <Filter>소스 파일\03</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

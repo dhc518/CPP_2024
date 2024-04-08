@@ -1,3 +1,5 @@
+/*게임공학과 2019180013 두혁찬*/
+
 #include <iostream>
 #include "Exp.h"
 
