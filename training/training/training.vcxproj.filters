@@ -30,5 +30,23 @@
     <ClCompile Include="..\04-Pointer\sample4-4.cpp">
       <Filter>소스 파일\04</Filter>
     </ClCompile>
+    <ClCompile Include="..\04-Pointer\sample4-10.cpp">
+      <Filter>소스 파일\04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\04-Pointer\sample4-11.cpp">
+      <Filter>소스 파일\04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\04-Pointer\sample4-12.cpp">
+      <Filter>소스 파일\04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\04-Pointer\sample4-13.cpp">
+      <Filter>소스 파일\04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\04-Pointer\sample4-14.cpp">
+      <Filter>소스 파일\04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\04-Pointer\sample4-15.cpp">
+      <Filter>소스 파일\04</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
