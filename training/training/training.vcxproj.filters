@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\04">
       <UniqueIdentifier>{698988a6-7008-425e-9c1d-c8a16069e7d9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\05">
+      <UniqueIdentifier>{7f36162e-8444-4787-946b-6d68f38f7a2b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\04-Pointer\sample4-1.cpp">
@@ -47,6 +50,12 @@
     </ClCompile>
     <ClCompile Include="..\04-Pointer\sample4-15.cpp">
       <Filter>소스 파일\04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\05-Func&amp;Ref\smaple05-1.cpp">
+      <Filter>소스 파일\05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\05-Func&amp;Ref\sample05-3.cpp">
+      <Filter>소스 파일\05</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
