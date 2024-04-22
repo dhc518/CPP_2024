@@ -56,8 +56,9 @@ int main() {
 	Person father(1, "Kitae");
 	Person son = father;
 	cout << endl;//다른 함수에서 이름 변경시 실행되는 복사 생성자
-	f(father);
-	g();// 리턴해준 값을 받을 변수가 존재하지 않을경우 바로 객체를 삭제
-	//Person daughter = g();
+	f(father);	
+	//g();// 리턴해준 값을 받을 변수가 존재하지 않을경우 바로 객체를 삭제
+	//Person daughter = g();//리턴해줄 값을 받을 변수가 있을 시 변수에 대한 생성자는 따로 실행 되지 않음
+	son = g();//_CRT_SECURITYCRITICAL_ATTRIBUTE : __CRTDECL operator delete
 	cout<<endl;
 }
