@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\05">
       <UniqueIdentifier>{7f36162e-8444-4787-946b-6d68f38f7a2b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\06">
+      <UniqueIdentifier>{709c6b0c-00d6-4bea-b3f5-993da7ff1898}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\04-Pointer\sample4-1.cpp">
@@ -86,6 +89,24 @@
     </ClCompile>
     <ClCompile Include="..\05-Func&amp;Ref\sample5-12.cpp">
       <Filter>소스 파일\05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\06-FuncCopy\sample6-1.cpp">
+      <Filter>소스 파일\06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\06-FuncCopy\sample6-2.cpp">
+      <Filter>소스 파일\06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\06-FuncCopy\sample6-3.cpp">
+      <Filter>소스 파일\06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\06-FuncCopy\sample6-4.cpp">
+      <Filter>소스 파일\06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\06-FuncCopy\sample6-5.cpp">
+      <Filter>소스 파일\06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\06-FuncCopy\sample6-6.cpp">
+      <Filter>소스 파일\06</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
