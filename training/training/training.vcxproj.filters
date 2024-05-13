@@ -90,22 +90,34 @@
     <ClCompile Include="..\05-Func&amp;Ref\sample5-12.cpp">
       <Filter>소스 파일\05</Filter>
     </ClCompile>
-    <ClCompile Include="..\06-FuncCopy\sample6-1.cpp">
+    <ClCompile Include="..\06-FuncOverload\sample6-1.cpp">
       <Filter>소스 파일\06</Filter>
     </ClCompile>
-    <ClCompile Include="..\06-FuncCopy\sample6-2.cpp">
+    <ClCompile Include="..\06-FuncOverload\sample6-2.cpp">
       <Filter>소스 파일\06</Filter>
     </ClCompile>
-    <ClCompile Include="..\06-FuncCopy\sample6-3.cpp">
+    <ClCompile Include="..\06-FuncOverload\sample6-3.cpp">
       <Filter>소스 파일\06</Filter>
     </ClCompile>
-    <ClCompile Include="..\06-FuncCopy\sample6-4.cpp">
+    <ClCompile Include="..\06-FuncOverload\sample6-4.cpp">
       <Filter>소스 파일\06</Filter>
     </ClCompile>
-    <ClCompile Include="..\06-FuncCopy\sample6-5.cpp">
+    <ClCompile Include="..\06-FuncOverload\sample6-5.cpp">
       <Filter>소스 파일\06</Filter>
     </ClCompile>
-    <ClCompile Include="..\06-FuncCopy\sample6-6.cpp">
+    <ClCompile Include="..\06-FuncOverload\sample6-6.cpp">
+      <Filter>소스 파일\06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\06-FuncOverload\sample6-10.cpp">
+      <Filter>소스 파일\06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\06-FuncOverload\sample6-11.cpp">
+      <Filter>소스 파일\06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\06-FuncOverload\sample6-8.cpp">
+      <Filter>소스 파일\06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\06-FuncOverload\sample6-9.cpp">
       <Filter>소스 파일\06</Filter>
     </ClCompile>
   </ItemGroup>

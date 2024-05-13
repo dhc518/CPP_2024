@@ -193,22 +193,32 @@
     <ClCompile Include="..\05-Func&amp;Ref\sample5-9.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\06-FuncCopy\sample6-1.cpp">
+    <ClCompile Include="..\06-FuncOverload\sample6-1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\06-FuncCopy\sample6-2.cpp">
+    <ClCompile Include="..\06-FuncOverload\sample6-10.cpp" />
+    <ClCompile Include="..\06-FuncOverload\sample6-11.cpp" />
+    <ClCompile Include="..\06-FuncOverload\sample6-2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\06-FuncCopy\sample6-3.cpp">
+    <ClCompile Include="..\06-FuncOverload\sample6-3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\06-FuncCopy\sample6-4.cpp">
+    <ClCompile Include="..\06-FuncOverload\sample6-4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\06-FuncCopy\sample6-5.cpp">
+    <ClCompile Include="..\06-FuncOverload\sample6-5.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\06-FuncCopy\sample6-6.cpp" />
+    <ClCompile Include="..\06-FuncOverload\sample6-6.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\06-FuncOverload\sample6-8.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\06-FuncOverload\sample6-9.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
