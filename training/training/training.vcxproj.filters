@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\06">
       <UniqueIdentifier>{709c6b0c-00d6-4bea-b3f5-993da7ff1898}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\07">
+      <UniqueIdentifier>{73874208-d44f-40ff-906f-3e62c16dbab4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\04-Pointer\sample4-1.cpp">
@@ -119,6 +122,24 @@
     </ClCompile>
     <ClCompile Include="..\06-FuncOverload\sample6-9.cpp">
       <Filter>소스 파일\06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-1.cpp">
+      <Filter>소스 파일\07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-2.cpp">
+      <Filter>소스 파일\07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-3.cpp">
+      <Filter>소스 파일\07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-4.cpp">
+      <Filter>소스 파일\07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-5.cpp">
+      <Filter>소스 파일\07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-6.cpp">
+      <Filter>소스 파일\07</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
