@@ -3,6 +3,7 @@ using namespace std;
 
 #define Test 1
 
+
 #if Test == 1
 
 class Power {
@@ -21,10 +22,9 @@ void Power::show() {
 		<< endl;
 }
 Power& Power::operator+= (Power op2) {
-	Power tmp;
-	tmp.kick = this->kick += op2.kick;
-	tmp.punch = this->punch += op2.punch;
-	return tmp;
+	this->kick += op2.kick;
+	this->punch += op2.punch;
+	return *this;
 }
 
 
@@ -67,6 +67,5 @@ int main() {
 	a.show();
 	b.show();
 }
-
 
 #endif
