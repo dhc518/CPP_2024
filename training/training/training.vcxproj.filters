@@ -141,5 +141,32 @@
     <ClCompile Include="..\07-Friend&amp;OOL\sample7-6.cpp">
       <Filter>소스 파일\07</Filter>
     </ClCompile>
+    <ClCompile Include="..\08-.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-7.cpp">
+      <Filter>소스 파일\07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-8.cpp">
+      <Filter>소스 파일\07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-9.cpp">
+      <Filter>소스 파일\07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-10.cpp">
+      <Filter>소스 파일\07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-11.cpp">
+      <Filter>소스 파일\07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-12.cpp">
+      <Filter>소스 파일\07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-13.cpp">
+      <Filter>소스 파일\07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\07-Friend&amp;OOL\sample7-14.cpp">
+      <Filter>소스 파일\07</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
