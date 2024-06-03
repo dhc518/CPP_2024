@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-#define TEST 4
+#define TEST 0
 
 /*
 1. Point 클래스를 상속받는 ColorPoint 클래스 만들기
@@ -11,7 +11,43 @@ using namespace std;
 4. protected 멤버에 대한 접근
 */
 
-#if TEST == 1 //Point 클래스를 상속받는 ColorPoint 클래스 만들기
+#if TEST == 0 //Point 클래스를 상속받는 ColorPoint 클래스 만들기
+
+class Point {
+	int x, y;
+public:
+	void set(int x, int y) { this->x = x; this->y = y; }
+	void showPoint() { cout << "(" << x << "," << y << ")" << endl; }
+};
+
+class Point2 {
+	int a, b, c;
+public:
+	void set2(int a, int b) { this->a = a; this->b = b; }
+	void showPoint2() { cout << "(" << a << "," << b << ")" << endl; }
+};
+
+class ColorPoint : public Point, public Point2 {
+	string color;
+public:
+	void setColor(string color) { this->color = color; }
+	void showColorPoint();
+};
+
+void ColorPoint::showColorPoint() {
+	cout << color << ":";
+	showPoint();
+}
+
+int main() {
+	Point p;
+	ColorPoint cp;
+	cp.set(3, 4);
+	cp.setColor("Red");
+	cp.showColorPoint();
+}
+
+#elif TEST == 1 //Point 클래스를 상속받는 ColorPoint 클래스 만들기
 
 class Point {
 	int x, y;
@@ -154,6 +190,8 @@ int main() {
 	cp2.setColor("Red");
 	cout << ((cp.equals(cp2)) ? "true" : "false");
 }
+
+#elif TEST == 5
 
 
 
