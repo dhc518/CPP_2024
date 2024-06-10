@@ -141,7 +141,7 @@
     <ClCompile Include="..\07-Friend&amp;OOL\sample7-6.cpp">
       <Filter>소스 파일\07</Filter>
     </ClCompile>
-    <ClCompile Include="..\08-.cpp">
+    <ClCompile Include="..\08-Inheritance.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="..\07-Friend&amp;OOL\sample7-7.cpp">
@@ -167,6 +167,9 @@
     </ClCompile>
     <ClCompile Include="..\07-Friend&amp;OOL\sample7-14.cpp">
       <Filter>소스 파일\07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\09-PureVirtualFunction_AbstractClass.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
