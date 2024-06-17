@@ -171,5 +171,8 @@
     <ClCompile Include="..\09-PureVirtualFunction_AbstractClass.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\10-Template.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
